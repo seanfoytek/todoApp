@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background: black;
+
+}
+.parallax {
+    background: url("https://images.pexels.com/photos/14676/pexels-photo-14676.png?cs=srgb&dl=sky-night-dark-14676.jpg&fm=jpg");
+    height: 800px;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
